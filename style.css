@@ -1,0 +1,40 @@
+body 
+{background-color: antiquewhite; 
+color: rgb(51, 46, 46);
+ font-weight: 550;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a {
+color: rgb(0, 112, 112);}
+a:visited {
+color: rgba(1, 67, 99, 0.663);
+}
+
+
+h2 {
+margin: 0;}
+.kal {
+color: rgb(1, 66, 25);
+font-style: initial;
+}
+.foto1
+{width: 20%; max-height: 600px; object-fit:cover;
+border-radius: 25px;  
+box-shadow : 4px 4px 14px rgba(0,1,0,0,1);
+border: 3px solid rgb(0, 0, 0);
+
+
+}
+.sad {    font-size: 30px; text-align: center;
+    color: rgb(40, 38, 38);}
+.sadd {text-align: center; color: rgb(52, 1, 1);}
+.fas{font-size: 19px}
+.cas{font-size: 20px; text-indent: 20px;}
+.gaf{font-size: 20px}
+.box 
+{background: rgba(249, 226, 198, 0.777);
+padding:2px 5px;
+border: 3px solid rgb(0, 0, 0);
+margin: 15px;
+border-radius: 20px;
+}
